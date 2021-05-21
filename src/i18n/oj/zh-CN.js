@@ -103,9 +103,9 @@ export const m = {
   About_presentation_error_answer_part_1: '该 OJ 中没有输出格式错误。Judger将对自动对输出修整然后包裹在输出的',
   last: '最后',
   About_presentation_error_answer_part_2: '一行中。如果仍然与正确的输出不同，则结果将是',
-  How_to_report_bugs: '如何报告有关此 OJ 的错误？',
-  How_to_report_bugs_answer_part_1: 'onlinejudge 是开源的，您可以到',
-  How_to_report_bugs_answer_part_2: '提交问题。需要有关错误的详细信息（例如env，版本..），这将帮助我们极大地解决该错误。当然，我们很高兴合并您的请求。',
+  // How_to_report_bugs: '如何报告有关此 OJ 的错误？',
+  // How_to_report_bugs_answer_part_1: 'onlinejudge 是开源的，您可以到',
+  // How_to_report_bugs_answer_part_2: '提交问题。需要有关错误的详细信息（例如env，版本..），这将帮助我们极大地解决该错误。当然，我们很高兴合并您的请求。',
   // Cancel.vue
   Cancel: '取消',
   // ContestDetail.vue
